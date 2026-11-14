@@ -115,5 +115,3 @@ CampusCare aims to create a supportive digital environment where students can fo
 ##  Developed By
 
 **Srishti Chadha**
-
-GitHub: [12srishti34](https://github.com/12srishti34)
