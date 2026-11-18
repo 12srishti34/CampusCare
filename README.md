@@ -39,7 +39,7 @@ CampusCare is a full-stack web application designed to support students' mental 
 
 
 ## Project Structure
->>>>>>> ad149db (Add Udated README with screenshots and links)
+
 
 ```text
 CampusCare/
@@ -216,7 +216,7 @@ npm install
 npm start
 ```
 
-<<<<<<< HEAD
+
 ##  Project Objective
 
 CampusCare aims to create a supportive digital environment where students can focus on their mental wellness, express themselves, connect with mentors, and access helpful activities.
@@ -236,4 +236,4 @@ CampusCare aims to create a supportive digital environment where students can fo
 **Srishti Chadha**
 
 GitHub: [12srishti34](https://github.com/12srishti34)
->>>>>>> ad149db (Add Udated README with screenshots and links)
+
