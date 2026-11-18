@@ -220,16 +220,8 @@ npm start
 ##  Project Objective
 
 CampusCare aims to create a supportive digital environment where students can focus on their mental wellness, express themselves, connect with mentors, and access helpful activities.
-
-##  Developed By
-
-**Srishti Chadha**
-=======
 The frontend will generally run at `http://localhost:3000`, and the backend runs on the configured port.
 
-## Project Objective
-
-CampusCare aims to create a supportive digital environment where students can focus on their mental wellness, express themselves, connect with mentors, and access helpful activities.
 
 ## Developed By
 
