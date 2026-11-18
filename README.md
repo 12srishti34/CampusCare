@@ -38,8 +38,8 @@ CampusCare is a full-stack web application designed to support students' mental 
 - bcryptjs
 
 
-## Project Structure
 
+## Project Structure
 
 ```text
 CampusCare/
@@ -61,6 +61,10 @@ CampusCare/
 ├── package.json
 └── README.md
 ```
+
+## Screenshots
+
+## Installation & Setup
 
 ### 1. Student Registration and Login
 
@@ -215,12 +219,12 @@ npm install
 ```bash
 npm start
 ```
+The frontend will generally run at `http://localhost:3000`, and the backend runs on the configured port.
 
 
 ##  Project Objective
 
 CampusCare aims to create a supportive digital environment where students can focus on their mental wellness, express themselves, connect with mentors, and access helpful activities.
-The frontend will generally run at `http://localhost:3000`, and the backend runs on the configured port.
 
 
 ## Developed By
