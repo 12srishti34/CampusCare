@@ -2,12 +2,8 @@
 
 CampusCare is a full-stack web application designed to support students' mental well-being. It provides a platform where students can connect with teachers and mentors, track their moods, maintain personal diaries, and participate in stress-relief activities.
 
-<<<<<<< HEAD
-##  Key Features
-=======
-## Key Features
->>>>>>> ad149db (Add Udated README with screenshots and links)
 
+##  Key Features
 - **Student Dashboard:** A dedicated dashboard for students.
 - **Teacher Dashboard:** A separate interface for teachers.
 - **Appointment Booking:** Students can request one-to-one sessions with teachers or mentors.
@@ -21,11 +17,8 @@ CampusCare is a full-stack web application designed to support students' mental 
 - **Tips and Tricks:** Helpful tips and guidance for students.
 - **Authentication:** User authentication and role-based access for students and teachers.
 
-<<<<<<< HEAD
-##  Tech Stack
-=======
+
 ## Tech Stack
->>>>>>> ad149db (Add Udated README with screenshots and links)
 
 ### Frontend
 - React.js
@@ -44,9 +37,7 @@ CampusCare is a full-stack web application designed to support students' mental 
 - JWT Authentication
 - bcryptjs
 
-<<<<<<< HEAD
-##  Project Structure
-=======
+
 ## Project Structure
 >>>>>>> ad149db (Add Udated README with screenshots and links)
 
@@ -70,10 +61,6 @@ CampusCare/
 ├── package.json
 └── README.md
 ```
-
-## Screenshots
-
-## Installation & Setup
 
 ### 1. Student Registration and Login
 
